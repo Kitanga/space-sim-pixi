@@ -22,5 +22,6 @@
       ]
     },
     "baseUrl": "./"
-  }
+  },
+  "exclude": ["node_modules", "dist", "pwa", "readme"]
 }
