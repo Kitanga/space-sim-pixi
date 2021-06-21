@@ -10,7 +10,7 @@ This is a project that I've been working on as a way of better understanding Pix
 
 ## Controls
 
-Click on the ship to show controls.
+Click on the ship to show controls. Use mouse wheel to zoom in and out.
 
 All 3 buttons, do the same thing (for now): player movement.
 
